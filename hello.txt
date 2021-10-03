@@ -2,3 +2,4 @@ Kolaborator tes lagi
 
 ubah text hello
 update fork
+squash 1
