@@ -1,5 +1,5 @@
 Kolaborator tes lagi
 
 ubah text hello
-update fork
-squash 1
+update for
+squash 2
