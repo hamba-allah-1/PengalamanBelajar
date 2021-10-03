@@ -2,4 +2,4 @@ Kolaborator tes lagi
 
 ubah text hello
 update for
-squash 2
+squash 3
